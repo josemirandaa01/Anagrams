@@ -1,0 +1,6 @@
+C:\Users\Jose\source\repos\Anagrams\Anagrams Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\Jose\source\repos\Anagrams\Anagrams Test\obj\Debug\netcoreapp3.1\Anagrams Test.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\Anagrams\Anagrams Test\obj\Debug\netcoreapp3.1\Anagrams Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Anagrams\Anagrams Test\obj\Debug\netcoreapp3.1\Anagrams Test.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Anagrams\Anagrams Test\obj\Debug\netcoreapp3.1\Anagrams Test.AssemblyInfo.cs
+C:\Users\Jose\source\repos\Anagrams\Anagrams Test\obj\Debug\netcoreapp3.1\Anagrams Test.csproj.CoreCompileInputs.cache
