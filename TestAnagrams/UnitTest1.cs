@@ -7,13 +7,24 @@ namespace TestAnagrams
     {
         
         [Test]
-        public void Test1()
+        public void LeerPrimeraLinea()
         {
-            string value = Anagram.Program.Anagram();
+            string value = Anagram.Program.Anagram(5);
             string expected = "A";
 
 
             Assert.AreEqual(value, expected);
         }
+
+        [Test]
+        public void Order()
+        {
+            string value = Anagram.Program.Order("dcab");
+            string expected = "abcd";
+
+
+            Assert.AreEqual(value, expected);
+        }
+
     }
 }
